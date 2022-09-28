@@ -15,7 +15,7 @@ class Palindrome {
     }
     public static void main(String[] args)
     {
-        String str = "aniruddha";
+        String str = "mom";
         str = str.toLowerCase();
         boolean A = isPalindrome(str);
         System.out.println(A);
